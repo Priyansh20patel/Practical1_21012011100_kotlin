@@ -6,6 +6,8 @@
 Integer to Double, String to Integer, String to Double.
 ![image](https://github.com/Priyansh20patel/Practical1_21012011100_kotlin/assets/98640432/3cdb175e-d253-455b-8a14-2b0d16820d5a)
 
+
+
 3.Scan student’s information and display all the data.
 ![image](https://github.com/Priyansh20patel/Practical1_21012011100_kotlin/assets/98640432/4608b276-f00a-426c-88cb-23822b56eb19)
 
