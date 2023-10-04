@@ -1,5 +1,7 @@
 # Practical1_21012011100_kotlin
 1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
+![image](https://github.com/Priyansh20patel/Practical1_21012011100_kotlin/assets/98640432/dfd841da-5856-460f-94e5-523d8602d2d7)
+
 
 2.Type conversion:
 Integer to Double, String to Integer, String to Double.
